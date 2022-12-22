@@ -1,0 +1,17 @@
+.Profile{
+    padding: 0px;
+    border: 0px;
+    height: 150px;
+    width: 150px;
+
+}
+body{
+    background-color: #A5F1E9;
+}
+hr{
+    border-top: dotted 5px;
+    padding: 0ch;
+    border-color: gray;
+    margin: 0%;
+    
+}
